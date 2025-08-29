@@ -4,4 +4,5 @@ project(beecrowd)
 set(CMAKE_CXX_STANDARD 20)
 
 add_library(beecrowd STATIC library.cpp
-        2006.cpp)
+        2006.cpp
+        1170.cpp)
